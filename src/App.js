@@ -18,8 +18,6 @@ function App() {
       <Button color='primary'>First Button</Button>
 
       <Button color='primary'>First Button</Button><Button color='primary'>First Button</Button>
-      <Button color='primary'>First Button</Button>
-      <Button color='primary'>First Button</Button>
     </div>
   );
 }
