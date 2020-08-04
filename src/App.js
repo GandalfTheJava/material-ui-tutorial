@@ -15,7 +15,7 @@ function App() {
     <div className="App">
       <Typography className={classes.hellothereStyle}>Hello My Friend</Typography>
       <Button color='primary'>First Button</Button>
-      <Button color='primary'>First Button</Button>
+
 
 
     </div>
